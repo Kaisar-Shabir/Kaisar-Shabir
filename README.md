@@ -23,7 +23,7 @@ I am a Backend Software Developer and Program Manager focused on building scalab
 **Status: Active Development** A Java-based backend utilizing the Micronaut framework and PostgreSQL. This project serves as the core engine for the Haazri ecosystem, focusing on high-performance API services and robust data management.
 
 #### 🛡️ [PhantomFixAI](https://github.com/Kaisar-Shabir/PhantomFixAI)
-**Status: Upcoming / Conceptual** An ambitious project aimed at creating a repository plugin for AI-based self-healing. It utilizes traffic shadowing and regression testing to automatically detect, repair, and validate code in production-like environments.
+**Status: Active Development (Request based access)** An ambitious project aimed at creating a repository plugin for AI-based self-healing. It utilizes traffic shadowing and regression testing to automatically detect, repair, and validate code in production-like environments.
 
 ---
 
