@@ -1,29 +1,45 @@
 # 👋 Hi, I’m @Kaisar-Shabir
 
-### 🚀 About Me
-I am a Backend Software Developer and Program Manager focused on building scalable, self-healing infrastructure. I specialize in modern backend stacks and AI-integrated development workflows.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaisar-shabir-bb74bb17a/)
 
-* 👀 **Interests:** Backend Architecture, AI-based Autonomous Agents, and Self-Healing Systems.
-* 🌱 **Currently Learning:** Advanced Java, Micronaut Framework, and Traffic Shadowing Architectures.
+### 🚀 About Me
+I am a Backend Software Developer focused on building scalable, self-healing infrastructure and high-throughput data pipelines. I specialize in distributed systems and am currently engineering AI-integrated development workflows.
+
+* 👀 **Interests:** Distributed Systems, AI-based Autonomous Agents, and Resilient Infrastructure.
+* 🌱 **Currently Learning:** Micronaut Framework and Traffic Shadowing Architectures.
 * 📫 **Contact:** [kaisar.1si17cs045@gmail.com](mailto:kaisar.1si17cs045@gmail.com)
 
 ---
 
+### 💼 Professional Experience: Flipkart
+Focused on scaling and maintaining high-throughput distributed systems and building core commerce infrastructure.
+
+* **Influencer Commerce:** Developed a **Multi-tenant Registration System from scratch**, ensuring secure and scalable onboarding for diverse influencer cohorts.
+* **Search Engine Marketing (SEM):** Worked on large-scale non-user path systems utilizing **Apache Storm**, **Kafka**, and **Aerospike** for real-time processing.
+* **CRM & Connekt:** Contributed to high-scale data pipelines using **Spark**, **Storm**, and **Kafka**.
+    * Managed low-latency state with **Aerospike**.
+    * Maintained REST-based callback systems and Webhook architectures for callback path flows.
+
+---
+
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Java, Python, Flutter
-* **Frameworks:** Micronaut, Apache Storm
-* **Infrastructure:** Kafka, PostgreSQL
-* **IDEs:** IntelliJ IDEA (Primary)
+* **Languages:** Java (Expertise), Python, SQL
+* **Big Data & Streaming:** Apache Storm, Kafka, Apache Spark
+* **Databases:** Aerospike (Deep Understanding), MySQL, PostgreSQL (Learning)
+* **Frameworks:** Micronaut, Microservices
+* **IDEs:** IntelliJ IDEA
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🏗️ [haaziri-be](https://github.com/Kaisar-Shabir/haaziri-be)
-**Status: Active Development** A Java-based backend utilizing the Micronaut framework and PostgreSQL. This project serves as the core engine for the Haazri ecosystem, focusing on high-performance API services and robust data management.
-
 #### 🛡️ [PhantomFixAI](https://github.com/Kaisar-Shabir/PhantomFixAI)
-**Status: Active Development (Request based access)** An ambitious project aimed at creating a repository plugin for AI-based self-healing. It utilizes traffic shadowing and regression testing to automatically detect, repair, and validate code in production-like environments.
+**Status: Active Development (Request-based access)**
+An AI-driven repository plugin for self-healing systems. It leverages **Traffic Shadowing** and **Regression Testing** to automatically detect, repair, and validate code in production-like environments.
+
+#### 🏗️ [haaziri-be](https://github.com/Kaisar-Shabir/haaziri-be)
+**Status: Active Development**
+A high-performance Java backend utilizing **Micronaut** and **PostgreSQL**, serving as the core engine for the Haazri ecosystem.
 
 ---
 
