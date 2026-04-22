@@ -33,13 +33,22 @@ Focused on scaling and maintaining high-throughput distributed systems and build
 
 ### 📂 Featured Projects
 
+#### 🏗️ [haaziri-be](https://github.com/Kaisar-Shabir/haaziri-be)
+**Status: Active Development**
+High-performance **Multitenant HRMS** core supporting schools, companies, non-profits, and others.
+##### 🚀 Highlights
+* **Flexible Multitenancy:** Support for both **Database-per-tenant** and **Table-level (Schema)** isolation.
+* **HR Suite:** Integrated Attendance, Salary, Employment, and other modules.
+* **Performance:** **Multi-level caching** and **Bloom Filters** for low-latency lookups.
+* **Stack:** Java, Micronaut, and PostgreSQL.
+
 #### 🛡️ [PhantomFixAI](https://github.com/Kaisar-Shabir/PhantomFixAI)
 **Status: Active Development (Request-based access)**
 An AI-driven repository plugin for self-healing systems. It leverages **Traffic Shadowing** and **Regression Testing** to automatically detect, repair, and validate code in production-like environments.
 
-#### 🏗️ [haaziri-be](https://github.com/Kaisar-Shabir/haaziri-be)
-**Status: Active Development**
-A high-performance Java backend utilizing **Micronaut** and **PostgreSQL**, serving as the core engine for the Haazri ecosystem.
+#### 🛡️ [CortexGate]
+**Status: Concept / Planning**
+A persistent **agentic orchestration** layer designed to architect and automate complex task workflows. It acts as an intelligent gateway that intercepts frequent queries via rule-based logic and saved execution blueprints, ensuring consistent performance and token savings by offloading repetitive tasks from downstream AI agents.
 
 ---
 
