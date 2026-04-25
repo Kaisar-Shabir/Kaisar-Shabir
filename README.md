@@ -42,7 +42,7 @@ High-performance **Multitenant HRMS** core supporting schools, companies, non-pr
 * **Performance:** **Multi-level caching** and **Bloom Filters** for low-latency lookups.
 * **Stack:** Java, Micronaut, and PostgreSQL.
 
-#### 🛡️ [PhantomFixAI](https://github.com/Kaisar-Shabir/PhantomFixAI)
+#### 🛡️ [PhantomFixAI](https://github.com/Kaisar-Shabir/PhantomFixAI), [Relay-RS](https://github.com/Kaisar-Shabir/relay-rs)
 **Status: Active Development (Request-based access)**
 An AI-driven repository plugin for self-healing systems. It leverages **Traffic Shadowing** and **Regression Testing** to automatically detect, repair, and validate code in production-like environments.
 
